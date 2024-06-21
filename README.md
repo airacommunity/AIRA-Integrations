@@ -37,11 +37,8 @@ To integrate Mailchimp with Aira, follow the steps provided in [MailChimp Integr
 
 
 
-
+-----
 ## Support
 
 For support or inquiries regarding these integrations, please contact our support team at connect@aira.fr or visit our [website](www.aira.fr).
 
----
-
-Feel free to modify and expand upon this README to suit the specific details and structure of your Aira integration repository.
